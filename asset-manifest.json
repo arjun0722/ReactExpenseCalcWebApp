@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactExpenseCalcWebApp/static/css/main.31ec64bc.css",
+    "main.js": "/ReactExpenseCalcWebApp/static/js/main.b27d675b.js",
+    "static/js/787.1a848440.chunk.js": "/ReactExpenseCalcWebApp/static/js/787.1a848440.chunk.js",
+    "index.html": "/ReactExpenseCalcWebApp/index.html",
+    "main.31ec64bc.css.map": "/ReactExpenseCalcWebApp/static/css/main.31ec64bc.css.map",
+    "main.b27d675b.js.map": "/ReactExpenseCalcWebApp/static/js/main.b27d675b.js.map",
+    "787.1a848440.chunk.js.map": "/ReactExpenseCalcWebApp/static/js/787.1a848440.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ec64bc.css",
+    "static/js/main.b27d675b.js"
+  ]
+}
